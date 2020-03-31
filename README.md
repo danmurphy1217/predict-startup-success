@@ -1,3 +1,11 @@
 # Predicting Startup Success
 
-This repository contains code I wrote to predict the likelihood a startup will be successful. As this project develops, updates will be tracked here.
+This repository contains code I wrote to predict the likelihood that an entrepreneur will be successful. So far, I have spent much of my time looking into features like:
+    1. Number of previously founded organizations
+    2. Number of exits
+    3. Gender
+    4. Category of startup
+    5. Location of headquarters
+and more. 
+
+The models I have built so far include KNN, Random Foresh, Logistic Regression, and Perceptron. I am working with a dataset of ~19,000 rows.  
