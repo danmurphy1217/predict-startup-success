@@ -23,8 +23,10 @@ x_numeric.extend(['Founded_Date']) #add any other necessary columns
 df[x_numeric] = df[x_numeric].apply(pd.to_numeric)
 
 #get all features together
-x=x_factor.extend(x_numeric)
-
+x_factor.extend(x_numeric)
+x = x_numeric = x_factor
+x_y = x+[y]
+df=df[x_y]
 data_h2o = h2o.H2OFrame(df)
 
 
