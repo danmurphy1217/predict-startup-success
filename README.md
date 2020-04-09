@@ -8,4 +8,6 @@ This repository contains code I wrote to predict the likelihood that an entrepre
     5. Location of headquarters
 and more. 
 
-The models I have built so far include KNN, Random Foresh, Logistic Regression, and Perceptron. I am working with a dataset of ~19,000 rows.  
+The models I have experimented with so far include KNN, Random Forest, Decisiion Tree, Logistic Regression, and KNN. I am working with a dataset of ~19,000 rows.  
+
+To-Do: Grid Search for RF and DT models. Additionally, get .value_counts() for "Categories" column and create separate column with that data. 
