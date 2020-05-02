@@ -10,4 +10,5 @@ and more.
 
 The models I have experimented with so far include KNN, Random Forest, Decisiion Tree, Logistic Regression, and KNN. I am working with a dataset of ~19,000 rows.  
 
-To-Do: Grid Search for RF and DT models. Additionally, get .value_counts() for "Categories" column and create separate column with that data. 
+The final product is hosted here: https://dmurphy-classification-models.herokuapp.com/
+Final code for the heroku app is here: https://github.com/danmurphy1217/heroku-classification-models
