@@ -9,6 +9,3 @@ This repository contains code I wrote to predict the likelihood that an entrepre
 and more. 
 
 The models I have experimented with so far include KNN, Random Forest, Decisiion Tree, Logistic Regression, and KNN. I am working with a dataset of ~19,000 rows.  
-
-The final product is hosted here: https://dmurphy-classification-models.herokuapp.com/
-Final code for the heroku app is here: https://github.com/danmurphy1217/heroku-classification-models
